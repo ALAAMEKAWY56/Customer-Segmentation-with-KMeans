@@ -94,7 +94,7 @@ This project is licensed for educational and personal use.
 
 ## 🙋‍♀️ Author
 
-**Alaa Mohamed**  
+**Alaa Mohamed Mekawi**  
 Computer Engineer | Data & AI Enthusiast
 
 ---
